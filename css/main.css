@@ -10,21 +10,28 @@ main .row {
   height: 200px;
   text-align: center;
   padding-top: 30px;
+  box-sizing: border-box
 }
 
 .black {
-  background-color: black;
+  background-color: orange;
   color: white;
 }
 
 .green {
-  background-color: green;
+  background-color: blue;
 }
 
 .orange {
-  background-color: orange;
+  background-color: green;
 }
 
 .blue {
   background-color: blue;
+}
+.row {
+  max-width: 1000px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
 }
