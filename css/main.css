@@ -14,16 +14,16 @@ main .row {
 }
 
 .black {
-  background-color: orange;
+  background-color: black;
   color: white;
 }
 
 .green {
-  background-color: blue;
+  background-color: green;
 }
 
 .orange {
-  background-color: green;
+  background-color: orange;
 }
 
 .blue {
